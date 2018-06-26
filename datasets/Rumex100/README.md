@@ -26,6 +26,17 @@ This format can be used for weed recognition
 
 This dataset was introduced and used for the experimental evaluation of:
 
-Tsampikos Kounalakis, Georgios Triantafyllidis and Lazaros Nalpantidis, "Adaptable Recognition System for Advanced Weed Control", IEEE International Conference on Imaging Systems and Techniques (IST), 2016 (submitted for publication).
+Tsampikos Kounalakis, Georgios Triantafyllidis and Lazaros Nalpantidis, "Weed recognition framework for robotic precision farming", IEEE International Conference on Imaging Systems and Techniques (IST), 2016.
 
 Please cite this paper when referring to or using our dataset.
+
+BibTeX:
+
+@inproceedings{kounalakis2016weed,
+  title={Weed recognition framework for robotic precision farming},
+  author={Kounalakis, Tsampikos and Triantafyllidis, Georgios A and Nalpantidis, Lazaros},
+  booktitle={Imaging Systems and Techniques (IST), 2016 IEEE International Conference on},
+  pages={466--471},
+  year={2016},
+  organization={IEEE}
+}
